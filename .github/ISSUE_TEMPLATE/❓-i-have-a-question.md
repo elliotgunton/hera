@@ -1,9 +1,6 @@
 ---
 name: "❓ I have a question"
 about: Please use the GitHub Discussions tab!
-title: ''
-labels: ''
-assignees: ''
 
 ---
 
